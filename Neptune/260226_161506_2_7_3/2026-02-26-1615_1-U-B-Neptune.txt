@@ -1,0 +1,60 @@
+FireCapture v2.7.10 Settings
+------------------------------------
+Observer=Unknown
+Location=Unknown_City
+Scope=Unknown_Scope
+Camera=QHY5LII-C
+Filter=B
+Profile=Neptune
+Diameter=2.18"
+Magnitude=7.95
+Filename=2026-02-26-1615_1-U-B-Neptune.zip
+Date=260226
+Start=161506.881
+Mid=161513.523
+End=161520.165
+Start(UT)=161506.881
+Mid(UT)=161513.523
+End(UT)=161520.165
+Duration=13.284s
+Date_format=ddMMyy
+Time_format=HHmmss
+LT=UT 
+Frames captured=5
+FPS (avg.)=0
+File type=FITS
+Binning=1x1
+Bit depth=8bit
+Data=RAW
+Debayer(Preview)=no
+Debayer(Data)=no (RAW)
+Debayer(Algorithm)=NearestNeighbor
+Debayer(Pattern)=GR
+ROI=1280x960
+ROI(Offset)=0x0
+Shutter=3.00s
+Gain=7 (31%)
+BlackLevel=230
+Brightness=0
+Contrast=0
+HighSpeed=off
+USBTraffic=30
+WBlue=0
+WGreen=0
+WRed=0
+Histogramm(min)=0
+Histogramm(max)=169
+Histogramm=66%
+Noise(avg.deviation)=n/a
+eADU=n/a
+AutoAlign=false
+PreFilter=none
+Limit=5 Frames
+Dark=QHY5LII-C_1280x960__8bit_Exp=5.0s_Gain=13_Frames=5_2026-26-02_021450.dark
+
+---------------Timestamps at start of exposure --------------------
+Frame 1:	260226 161505.189
+Frame 2:	260226 161508.178
+Frame 3:	260226 161511.179
+Frame 4:	260226 161514.184
+Frame 5:	260226 161517.167
